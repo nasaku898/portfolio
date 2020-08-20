@@ -32,7 +32,7 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline">I'm {name}.</h1>
+            <h1 className="responsive-headline">I'm Bob {name}.</h1>
             <h3><span>I'm a {city} based <span style={{color:"#32a2a8", fontSize:"20px"}}>{occupation}</span>. {description}. </span></h3>
             <hr />
             <ul className="social">
